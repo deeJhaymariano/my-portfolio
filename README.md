@@ -59,7 +59,7 @@
 
     <!-- PROFILE -->
     <div class="profile">
-        <img src="pay1.jpg" alt="Profile Picture">
+        <img src="html/pay1.jpg" alt="Profile Picture">
         <h1>Dee-Jhay D. Mariano</h1>
         <p>Aspiring Programmer</p>
     </div>
@@ -115,4 +115,4 @@
 
 </body>
 </html>
-html/pay1.jpg
+
